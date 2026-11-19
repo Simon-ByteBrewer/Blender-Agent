@@ -3,8 +3,13 @@ MA + Blender 导演 Agent ，一键完成营销场景白模制作和视频生产
 
 Demo 软件安装包下载和安装
 
-MacOS APP 安装 : https://github.com/Simon-ByteBrewer/Blender-Agent/blob/main/MA-Creative-Studio-v0.5.8-macOS.dmg
-Source 源代码 安装 : https://github.com/Simon-ByteBrewer/Blender-Agent/blob/main/MA-Creative-Studio-v0.5.8.zip
+MacOS APP 安装：
+
+https://github.com/Simon-ByteBrewer/Blender-Agent/blob/main/MA-Creative-Studio-v0.5.8-macOS.dmg
+
+Source 源代码 安装：
+
+https://github.com/Simon-ByteBrewer/Blender-Agent/blob/main/MA-Creative-Studio-v0.5.8.zip
 
 方式1：
 MacOS App下载一键安装即可：
@@ -18,6 +23,7 @@ Blender是开源软件可以直接下载安装，或者发给你的Agent帮你�
 帮我下载并安装 Blender：https://www.blender.org/
 
 
+云端关联条件：
 1. 登陆火山引擎，在火山方舟中设置方舟API key
 2. 开通MA产品并获取API Key
 3. 开通MA服务
